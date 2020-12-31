@@ -8,10 +8,10 @@ Glad that you decided to visit my GitHub. My name is Wael and I am passionate ab
 - 👯 I’m looking to collaborate on robotics projects and ROS and as well as website building.
 - 🤔 I’m looking for help with C++, ROS and figuring out to manage time effectively. Be sure to share any tips you think will be helpful.
 - 💬 Ask me about DIY robot projects, Arduino programming and university shortlisting for masters.
-- 📫 How to reach me: 
-          1) Email: mohd.wael9823@gmail.com
-          2) Phone/Whatsapp: +91 8977638687
-          3) LinkedIn: https://www.linkedin.com/in/mohammed-wael-543bb715b/  (Do connect with me if we have similar interests)
+- 📫 How to reach me:</br>
+          1) Email: mohd.wael9823@gmail.com </br>
+          2) Phone/Whatsapp: +91 8977638687 </br>
+          3) LinkedIn: https://www.linkedin.com/in/mohammed-wael-543bb715b/  (Do connect with me if we have similar interests) </br>
 - ⚡ Fun fact: My name can be pronounced as while if you were wondering how to..
 
 Have a great day ahead!
