@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**wael9823/wael9823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Glad that you decided to visit my GitHub. My name is Wael and I am passionate about robotics and want to become a Robotics Engineer and preferably a software one at the moment. I completed my bachelors in Electronics and Communication Engineering in 2020 and am preparing to begin a masters in robotics in 2021. I discovered robotics in my undergrad and have loved it ever since. As I further went deeper into robotics by building some simple DIY projects, I realized that there is much I need to learn to make epic autonomous robots and have been on this learning journey since then. My main topics to learn are ROS, C++ Programming, Computer Vision, Kinematics and Motion Planning. 
 
@@ -18,4 +16,3 @@ Glad that you decided to visit my GitHub. My name is Wael and I am passionate ab
 
 Have a great day ahead!
 Wael
--->
