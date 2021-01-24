@@ -15,7 +15,7 @@ Glad that you decided to visit my GitHub. My name is Wael and I am passionate ab
 - ⚡ Fun fact: My name can be pronounced as while if you were wondering how to..
 
 Do checkout my first YouTube video below.</br>
-link:- https://www.youtube.com/embed/jDFJ-MQADBQ </br>
+link:- https://www.youtube.com/watch?v=jDFJ-MQADBQ </br>
 
 Have a great day ahead!</br>
 Wael
