@@ -14,5 +14,8 @@ Glad that you decided to visit my GitHub. My name is Wael and I am passionate ab
           3) LinkedIn: https://www.linkedin.com/in/mohammed-wael-543bb715b/  (Do connect with me if we have similar interests) </br>
 - ⚡ Fun fact: My name can be pronounced as while if you were wondering how to..
 
+Do checkout my first YouTube video below.</br>
+link:- https://www.youtube.com/embed/jDFJ-MQADBQ </br>
+
 Have a great day ahead!</br>
 Wael
